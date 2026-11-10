@@ -91,8 +91,13 @@ currently_learning: [Vue.js, Java, DevSecOps]
   <img src="https://streak-stats.demolab.com?user=MvuPp&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
 </p>
 
+<!-- Generated every day by .github/workflows/profile-3d.yml -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MvuPp&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=00d4aa&line=1f6feb&point=ffffff" alt="Contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvuPp/MvuPp/output-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvuPp/MvuPp/output-3d-contrib/profile-green-animate.svg" />
+    <img width="100%" alt="3D contribution graph" src="https://raw.githubusercontent.com/MvuPp/MvuPp/output-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
 </p>
 
 <!-- ===================== SNAKE ===================== -->
