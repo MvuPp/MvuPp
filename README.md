@@ -35,6 +35,8 @@ focus:
 - 🔐 &nbsp;Building secure tooling: encrypted archiving, signed message encoding, CI/CD pipelines
 - 🤝 &nbsp;Open to collaborate on security, infra or automation projects
 
+---
+
 <!-- ===================== SKILLS ===================== -->
 ## 🛠️ Tech stack
 
