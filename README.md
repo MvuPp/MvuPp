@@ -58,11 +58,5 @@ focus:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MvuPp&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&hide_border=true&title_color=FFD700&icon_color=FFD700&ring_color=FFD700&include_all_commits=true&count_private=true&rank_icon=github"/>
-  
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MvuPp&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&hide_border=true&title_color=FFD700&langs_count=8"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MvuPp&theme=dark&background=0D111700&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
 </p>
